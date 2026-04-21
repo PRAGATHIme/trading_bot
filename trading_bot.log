@@ -1,0 +1,6 @@
+2026-04-21 11:16:50,247 - INFO - Sending Order Request -> Endpoint: /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1776750410247}
+2026-04-21 11:16:50,955 - ERROR - Network Failure: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-21 11:18:31,615 - INFO - Sending Order Request -> Endpoint: /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1776750511614}
+2026-04-21 11:18:32,846 - ERROR - API Error 401: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
+2026-04-21 11:28:24,814 - INFO - Sending Order Request -> Endpoint: /fapi/v1/order | Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1776751104814}
+2026-04-21 11:28:25,945 - ERROR - API Error 401: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
